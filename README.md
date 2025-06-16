@@ -1,86 +1,103 @@
-<!--horizontal divider(gradiant)-->
+<!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan Diego Morales</h1></summary>
-  </ul>
+<!-- Header -->
+<div align="center">
+  <h1>Hi 👋, I'm Juan Diego Morales</h1>
+  <h3>Computer Systems Engineering Student | Web Developer | Problem Solver</h3>
 </div>
 
-<!--- snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdiegu/jdiegu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdiegu/jdiegu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jdiegu/jdiegu/output/github-contribution-grid-snake.svg">
-</picture> 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Resolver problemas con código es mi pasión</h2></summary>
-  </ul>
+<!-- About Me -->
+<div align="center">
+  <h2>About Me 💡</h2>
 </div>
-
-<!--Intro start-->
-
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdiegu&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jdiegu&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jdiegu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jdiegu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
+  I'm a passionate Computer Systems Engineering student at the Instituto Tecnológico de Orizaba. <br>
+  I enjoy designing efficient solutions to real-world problems using clean and maintainable code.<br>
+  I’m currently working on several academic and personal projects involving web development, database design, and logic programming.
 </p>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
+<!-- Skills -->
+<div align="center">
+  <h2>Tech Stack 💻</h2>
 </div>
-
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,linux,figma,python,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,linux,vscode,figma,oracle" />
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+<!-- Experience / Learning -->
+<div align="center">
+  <h2>What I'm Working On 🚀</h2>
 </div>
+<ul>
+  <li>🔧 Developing a food reservation and review platform called <strong>Reservadito</strong>.</li>
+  <li>📚 Learning and applying <strong>Extreme Programming (XP)</strong> methodology in team projects.</li>
+  <li>🧠 Solving logic problems using <strong>Prolog</strong> and working with <strong>Oracle 23c</strong> databases.</li>
+  <li>🌐 Creating interactive web apps using <strong>HTML, CSS, JavaScript, PHP, and MySQL</strong>.</li>
+</ul>
 
-<!--icons and links-->
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>GitHub Stats 📊</h2>
+</div>
 <p align="center">
-  <a href="mailto:juan.moralesvazquez.dev@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a>
-  <a href="https://github.com/jdiegu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" /></a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jdiegu&theme=dark&show_icons=true&count_private=true" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiegu&theme=dark&hide_border=false" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jdiegu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jdiegu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="90%" />
+</div>
 
-<!--horizontal divider(gradiant)-->
+<!-- Education -->
+<div align="center">
+  <h2>Education 🎓</h2>
+</div>
+<p align="center">
+  <strong>Instituto Tecnológico de Orizaba</strong> <br>
+  B.S. in Computer Systems Engineering <br>
+  <em>Expected graduation: 2026</em>
+</p>
+
+<!-- Contact -->
+<div align="center">
+  <h2>Connect With Me 🤝</h2>
+</div>
+<p align="center">
+  <a href="mailto:juan.moralesvazquez.dev@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" />
+  </a>
+  <a href="https://github.com/jdiegu" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="GitHub" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-diego-morales-vazquez/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+</p>
+
+<!-- Visit Counter -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=jdiegu&icon=3&color=6" alt="Visitor Count"/>
+  </a>
+</div>
+
+<!-- Footer -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [Juan Diego Morales Vázquez](https://github.com/jdiegu)
-
-Last Edited on: 16/06/2025
+<hr>
+<p align="center">
+  <em>Last Updated: June 16, 2025 — Built with 💙 by <a href="https://github.com/jdiegu">Juan Diego Morales</a></em>
+</p>
