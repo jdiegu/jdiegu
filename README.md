@@ -69,7 +69,6 @@
 <p align="center">
   <strong>Instituto Tecnológico de Orizaba</strong> <br>
   B.S. in Computer Systems Engineering <br>
-  <em>Expected graduation: 2027</em>
 </p>
 
 <!-- Contact -->
