@@ -32,9 +32,9 @@
   <h2>What I'm Working On 🚀</h2>
 </div>
 <ul>
-  <li>🔧 Developing a food reservation and review platform called <strong>Reservadito</strong>.</li>
   <li>📚 Learning and applying <strong>Extreme Programming (XP)</strong> methodology in team projects.</li>
-  <li>🧠 Solving logic problems using <strong>Prolog</strong> and working with <strong>Oracle 23c</strong> databases.</li>
+  <li>🧠 Solving logic problems using <strong>Haskell</strong> and <strong>Prolog</strong>.</li>
+  <li>🔨Work with different databases such as <strong>Oracle 23c</strong> , <strong>PostgreSQL</strong> and <strong>SQL Server</strong> </li>
   <li>🌐 Creating interactive web apps using <strong>HTML, CSS, JavaScript, PHP, and MySQL</strong>.</li>
 </ul>
 
@@ -43,7 +43,7 @@
   <h2>GitHub Stats 📊</h2>
 </div>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=jdiegu&theme=dark&show_icons=true&count_private=true" />
@@ -69,7 +69,7 @@
 <p align="center">
   <strong>Instituto Tecnológico de Orizaba</strong> <br>
   B.S. in Computer Systems Engineering <br>
-  <em>Expected graduation: 2026</em>
+  <em>Expected graduation: 2027</em>
 </p>
 
 <!-- Contact -->
@@ -88,12 +88,6 @@
   </a>
 </p>
 
-<!-- Visit Counter -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=jdiegu&icon=3&color=6" alt="Visitor Count"/>
-  </a>
-</div>
 
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
