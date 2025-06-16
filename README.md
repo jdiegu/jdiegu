@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/jdiegu/jdiegu/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 <!--h2 without bottom border-->
@@ -21,19 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 🎓 I’m a Computer Systems Engineering student at the Instituto Tecnológico de Orizaba.
 
-- 💻 I’m currently working on **web development, backend with PHP/MySQL, and frontend with HTML/CSS/JS**.
-
-- 🌱 I’m currently learning **Oracle 23c, Prolog, and Extreme Programming (XP)**.
-
-- 🔍 Interested in **problem-solving algorithms, systems programming, and game development**.
-
-- 💬 Ask me about **PHP, MySQL, Oracle, HTML, CSS, Git, XP methodology**.
-
-- 📫 Contact me at: **juan.moralesvazquez.dev@gmail.com**
-
-- 🛠️ I’m working on a project called **"Reservadito"**, a food reservation and review platform.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -68,7 +56,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,oracle,linux,figma,prolog,python,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,linux,figma,python,vscode" />
   </a>
 </p>
 
@@ -82,15 +70,10 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-diego-morales-vazquez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:juan.moralesvazquez.dev@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a>
   <a href="https://github.com/jdiegu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" /></a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=jdiegu&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
