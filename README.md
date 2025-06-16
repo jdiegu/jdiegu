@@ -23,7 +23,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,haskell,java,html,css,js,php,mysql,postgres,python,git,linux,vscode,blender,godot" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,haskell,java,html,css,js,php,mysql,postgres,python,git,linux,vscode,blender,godot&perline=5" />
   </a>
 </p>
 
